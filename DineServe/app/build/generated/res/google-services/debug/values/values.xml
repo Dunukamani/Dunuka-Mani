@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">885680493348-gvn85iiaqd8e6t65t9lsn3dr11b7r7h0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dineserve-d49bb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">885680493348</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRQz6Mew0dNGS98aYQ19Wo8tD8Ft5hU48</string>
+    <string name="google_app_id" translatable="false">1:885680493348:android:a02eb31915ad9c4cef19b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRQz6Mew0dNGS98aYQ19Wo8tD8Ft5hU48</string>
+    <string name="google_storage_bucket" translatable="false">dineserve-d49bb.appspot.com</string>
+    <string name="project_id" translatable="false">dineserve-d49bb</string>
+</resources>
